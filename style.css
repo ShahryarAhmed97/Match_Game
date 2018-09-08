@@ -1,0 +1,49 @@
+
+
+body{
+
+    background-size: 100%;
+}
+.boxes{
+    color: white;
+    width: 150px;
+    height: 150px;
+    background-color: rgb(112, 20, 224);
+    margin: 0px;
+    /* border-radius: 100px; */
+    margin: 10px;
+    font-size: 125px;
+    box-shadow: 0px 0px 10px inset;
+    transition-duration: 1s;
+    cursor: pointer;
+}
+
+table{
+    padding: 10px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 30px;
+    border-spacing: 25px;
+    border-collapse: separate;
+    
+    box-shadow: 0px 0px 10px inset;
+    background-color: black;
+}
+
+
+
+#buttId{
+    margin-top:60px; 
+    margin-left: 1300px;
+    height: 60px;
+    width: 200px;
+    font-size: 32px;
+    color: white;
+    background-color: rgb(112, 20, 224);;
+
+}
+
+#heading{
+    font-size: 50px;
+
+}
